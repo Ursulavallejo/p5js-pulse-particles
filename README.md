@@ -105,4 +105,4 @@ https://github.com/user-attachments/assets/166bf018-1f02-48fb-aef4-a5f4d69da49a
 
 © 2025 **Ursula Vallejo Janne**
 Released under the **MIT License** — feel free to use, remix, and learn from this project for educational or artistic purposes.
-```
+
