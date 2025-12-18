@@ -65,8 +65,6 @@ Each pulse is built with **Perlin noise**, resulting in soft, fluid, and unique 
    cd p5js-pulse-particles
    ```
 
-```
-
 2. Open `index.html` in your browser using a local server:
    e.g. VS Code Live Server
 
@@ -97,10 +95,14 @@ Special adjustments were added for Safari on iPhone and iPad:
 ## Video Project:
 
 
+
+https://github.com/user-attachments/assets/166bf018-1f02-48fb-aef4-a5f4d69da49a
+
+
 ---
 
 ## 📜 License
 
 © 2025 **Ursula Vallejo Janne**
 Released under the **MIT License** — feel free to use, remix, and learn from this project for educational or artistic purposes.
-```
+
